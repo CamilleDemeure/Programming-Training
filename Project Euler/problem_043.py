@@ -9,7 +9,7 @@ def has_divisibility_property(num_str):
     return True
 
 
-def problem_043():
+def problem_43():
     total = 0
     for perm in permutations('0123456789'):
         num_str = ''.join(perm)
@@ -18,4 +18,4 @@ def problem_043():
     return total
 
 
-print(problem_043())
+print(problem_43())
