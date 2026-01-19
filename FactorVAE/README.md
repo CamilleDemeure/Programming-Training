@@ -1,0 +1,1 @@
+This project aims to apply a Factor Variational AutoEncoder paper to Chinese stocks. This is a group project and I want to thank Boyer Sacha, Chekroun Lucie, Partensky Alexandre andYin Jiayi for contributing to this amazing project. This academic project is presented in detail in the presentation file. Thank you for reading !
