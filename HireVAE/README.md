@@ -1,0 +1,1 @@
+This project aims to apply a Variational AutoEncoder paper to Chinese stocks. This is a group project and I want to thank Alexandre Partenski, Samy Sellami and Romea Kelvin for contributing to this amazing project. This academic project is presented in detail in the presentation file. Thank you for reading !
