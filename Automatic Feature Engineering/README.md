@@ -1,0 +1,1 @@
+This project aims to create a framework to create new features automatically and is inspired from the paper Towards Automatic Complex Feature Engineering. This a group project and I want to take the time to thank Dhruv Suresh and Aryaman Awashti for their impressive work. 
